@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874918817614",
+    "firebase_url": "https://stok-barang-edad1-default-rtdb.firebaseio.com",
+    "project_id": "stok-barang-edad1",
+    "storage_bucket": "stok-barang-edad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874918817614:android:403930162ad0904c1cb81f",
+        "android_client_info": {
+          "package_name": "com.example.note_cash_id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874918817614-n2r7l22r6h0tiubmek9g1kqqhrbmlbps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.note_cash_id",
+            "certificate_hash": "fd27e1d1f0e7818834fdaac0803c69048e172c6a"
+          }
+        },
+        {
+          "client_id": "874918817614-fdm02cftfd6a3l2u1sbsq9h3vq76pccm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrNfrV7AGWohDSRsjlQmKNxgUYPj8AH60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874918817614-fdm02cftfd6a3l2u1sbsq9h3vq76pccm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874918817614-ttv1boq1vgbeiaolpdmg03nnrujncnvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noteCashId"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
